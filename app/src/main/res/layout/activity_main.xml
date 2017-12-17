@@ -24,7 +24,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="#fff"
-            android:text=" This is the door to the cProjects, xLab, xFactory and many more.We are building the future of Humanity with grace and dignity."
+            android:text=" This is the door to the xProjects, xLab, xFactory and many more.We are building the future of Humanity with grace and dignity."
             android:textSize="15sp"
             android:layout_marginTop="25dp"/>
         <LinearLayout
